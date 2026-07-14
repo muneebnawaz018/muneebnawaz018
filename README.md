@@ -145,68 +145,67 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 ## Toolbox
 
+**Frontend**
+
 <table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,redux,tailwind,html,css&perline=10" alt="React, Next.js, Vue, Angular, TypeScript, JavaScript, Redux, Tailwind, HTML, CSS" /><br/>
-      <sub>TanStack Query · PWA · Webpack · accessibility (a11y)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-      <img src="https://img.shields.io/badge/iOS_%26_Android-333333?style=flat-square&logo=apple&logoColor=white" alt="iOS and Android" /><br/>
-      <sub>Native modules · deep linking · offline-first · push notifications · CodePush · App Store &amp; Play Store deployment</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,fastapi,python,graphql,kafka,rabbitmq&perline=9" alt="Node.js, NestJS, Express, Django, FastAPI, Python, GraphQL, Kafka, RabbitMQ" /><br/>
-      <sub>REST · gRPC · tRPC · WebSockets · microservices · DDD · serverless</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,redis,firebase,elasticsearch,prisma&perline=8" alt="PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Firebase, Elasticsearch, Prisma" /><br/>
-      <sub>Mongoose</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /><br/>
-      <sub>GPT &amp; LLMs · RAG · embeddings · vector databases · conversational AI · agents · prompt engineering · structured outputs</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud &amp; DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,jenkins,nginx,vercel,netlify&perline=10" alt="AWS, GCP, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, NGINX, Vercel, Netlify" /><br/>
-      <sub>GitOps</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Security</b></td>
-    <td>
-      <sub>JWT · OAuth2 · OIDC · RBAC · ABAC · Cedar policy authorization · OWASP · encryption · TLS</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Testing &amp; Observability</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=jest,sentry,grafana,git&perline=8" alt="Jest, Sentry, Grafana, Git" /><br/>
-      <sub>Cypress · Playwright · ESLint · SonarQube · Datadog</sub>
-    </td>
-  </tr>
+  <tr><td align="center" width="76"><img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" /><br /><sub>React</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next" /><br /><sub>Next</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=vue" width="44" height="44" alt="Vue" /><br /><sub>Vue</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=angular" width="44" height="44" alt="Angular" /><br /><sub>Angular</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" /><br /><sub>TypeScript</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" /><br /><sub>JavaScript</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=redux" width="44" height="44" alt="Redux" /><br /><sub>Redux</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind" /><br /><sub>Tailwind</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML" /><br /><sub>HTML</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS" /><br /><sub>CSS</sub></td></tr>
 </table>
+
+<sub>Also: TanStack Query · PWA · Webpack · accessibility (a11y)</sub>
+
+**Mobile**
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/iOS_%26_Android-333333?style=flat-square&logo=apple&logoColor=white" alt="iOS and Android" />
+
+<sub>Native modules · deep linking · offline-first · push notifications · CodePush · App Store &amp; Play Store deployment</sub>
+
+**Backend**
+
+<table>
+  <tr><td align="center" width="76"><img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node" /><br /><sub>Node</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=nestjs" width="44" height="44" alt="NestJS" /><br /><sub>NestJS</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=express" width="44" height="44" alt="Express" /><br /><sub>Express</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=django" width="44" height="44" alt="Django" /><br /><sub>Django</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=fastapi" width="44" height="44" alt="FastAPI" /><br /><sub>FastAPI</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=python" width="44" height="44" alt="Python" /><br /><sub>Python</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=graphql" width="44" height="44" alt="GraphQL" /><br /><sub>GraphQL</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=kafka" width="44" height="44" alt="Kafka" /><br /><sub>Kafka</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=rabbitmq" width="44" height="44" alt="RabbitMQ" /><br /><sub>RabbitMQ</sub></td></tr>
+</table>
+
+<sub>REST · gRPC · tRPC · WebSockets · microservices · DDD · serverless</sub>
+
+**Data**
+
+<table>
+  <tr><td align="center" width="76"><img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" /><br /><sub>MySQL</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" /><br /><sub>MongoDB</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=dynamodb" width="44" height="44" alt="DynamoDB" /><br /><sub>DynamoDB</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" /><br /><sub>Redis</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=firebase" width="44" height="44" alt="Firebase" /><br /><sub>Firebase</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=elasticsearch" width="44" height="44" alt="Elastic" /><br /><sub>Elastic</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=prisma" width="44" height="44" alt="Prisma" /><br /><sub>Prisma</sub></td></tr>
+</table>
+
+<sub>Mongoose</sub>
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+
+<sub>GPT &amp; LLMs · RAG · embeddings · vector databases · conversational AI · agents · prompt engineering · structured outputs</sub>
+
+**Cloud &amp; DevOps**
+
+<table>
+  <tr><td align="center" width="76"><img src="https://skillicons.dev/icons?i=aws" width="44" height="44" alt="AWS" /><br /><sub>AWS</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=gcp" width="44" height="44" alt="GCP" /><br /><sub>GCP</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=docker" width="44" height="44" alt="Docker" /><br /><sub>Docker</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=kubernetes" width="44" height="44" alt="Kubernetes" /><br /><sub>Kubernetes</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=terraform" width="44" height="44" alt="Terraform" /><br /><sub>Terraform</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" alt="Actions" /><br /><sub>Actions</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=jenkins" width="44" height="44" alt="Jenkins" /><br /><sub>Jenkins</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=nginx" width="44" height="44" alt="NGINX" /><br /><sub>NGINX</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=vercel" width="44" height="44" alt="Vercel" /><br /><sub>Vercel</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=netlify" width="44" height="44" alt="Netlify" /><br /><sub>Netlify</sub></td></tr>
+</table>
+
+<sub>GitOps</sub>
+
+**Testing &amp; Observability**
+
+<table>
+  <tr><td align="center" width="76"><img src="https://skillicons.dev/icons?i=jest" width="44" height="44" alt="Jest" /><br /><sub>Jest</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=sentry" width="44" height="44" alt="Sentry" /><br /><sub>Sentry</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=grafana" width="44" height="44" alt="Grafana" /><br /><sub>Grafana</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" /><br /><sub>Git</sub></td></tr>
+</table>
+
+<sub>Cypress · Playwright · ESLint · SonarQube · Datadog</sub>
+
+**Security**
+
+<sub>JWT · OAuth2 · OIDC · RBAC · ABAC · Cedar policy authorization · OWASP · encryption · TLS</sub>
+
 
 <br/>
 
