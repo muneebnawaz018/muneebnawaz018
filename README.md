@@ -32,13 +32,14 @@
 > One engineer who takes a product from the first architecture sketch to live production traffic: the web app, the mobile apps, the AI, and the cloud it all runs on. I have done exactly that for six-plus years.
 
 ```text
-      ███╗   ███╗███╗   ██╗      muneeb@remote
+      ███╗   ███╗███╗   ██╗      muneebnawaz018
       ████╗ ████║████╗  ██║      ─────────────────────────────────────────────────
       ██╔████╔██║██╔██╗ ██║      Role       Sr. Full Stack Developer & Solution Architect
       ██║╚██╔╝██║██║╚██╗██║      Uptime     6+ years in production
       ██║ ╚═╝ ██║██║ ╚████║      Kernel     TypeScript / Python
       ╚═╝     ╚═╝╚═╝  ╚═══╝      Shell      web · mobile · AI · cloud, end to end
-                                 Packages   18 shipped products (9 web · 9 mobile)
+                                 Products   18 shipped (9 web · 9 mobile)
+                                 Repos      31 public repositories on GitHub
                                  Display    production-ready, whole stack, one person
                                  Location   remote · worldwide
                                  Status     open to remote contracts
@@ -148,23 +149,23 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 **Frontend**
 
 <table>
-  <tr><td align="center" width="76"><img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" /><br /><sub>React</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next" /><br /><sub>Next</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=vue" width="44" height="44" alt="Vue" /><br /><sub>Vue</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=angular" width="44" height="44" alt="Angular" /><br /><sub>Angular</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" /><br /><sub>TypeScript</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" /><br /><sub>JavaScript</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=redux" width="44" height="44" alt="Redux" /><br /><sub>Redux</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind" /><br /><sub>Tailwind</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML" /><br /><sub>HTML</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS" /><br /><sub>CSS</sub></td></tr>
+  <tr><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=react" width="56" height="56" alt="React" /><br /><sub>React</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" alt="Next" /><br /><sub>Next</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=vue" width="56" height="56" alt="Vue" /><br /><sub>Vue</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=angular" width="56" height="56" alt="Angular" /><br /><sub>Angular</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="TypeScript" /><br /><sub>TypeScript</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=js" width="56" height="56" alt="JavaScript" /><br /><sub>JavaScript</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=redux" width="56" height="56" alt="Redux" /><br /><sub>Redux</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=tailwind" width="56" height="56" alt="Tailwind" /><br /><sub>Tailwind</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=html" width="56" height="56" alt="HTML" /><br /><sub>HTML</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=css" width="56" height="56" alt="CSS" /><br /><sub>CSS</sub></td></tr>
 </table>
 
 <sub>Also: TanStack Query · PWA · Webpack · accessibility (a11y)</sub>
 
 **Mobile**
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/iOS_%26_Android-333333?style=flat-square&logo=apple&logoColor=white" alt="iOS and Android" />
+<table>
+  <tr><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A" height="34" alt="React Native" /><br /><sub>React Native</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=expo&logoColor=white&color=1B1F23" height="34" alt="Expo" /><br /><sub>Expo</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=apple&logoColor=white&color=000000" height="34" alt="iOS" /><br /><sub>iOS</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=android&logoColor=white&color=3DDC84" height="34" alt="Android" /><br /><sub>Android</sub></td></tr>
+</table>
 
 <sub>Native modules · deep linking · offline-first · push notifications · CodePush · App Store &amp; Play Store deployment</sub>
 
 **Backend**
 
 <table>
-  <tr><td align="center" width="76"><img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node" /><br /><sub>Node</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=nestjs" width="44" height="44" alt="NestJS" /><br /><sub>NestJS</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=express" width="44" height="44" alt="Express" /><br /><sub>Express</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=django" width="44" height="44" alt="Django" /><br /><sub>Django</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=fastapi" width="44" height="44" alt="FastAPI" /><br /><sub>FastAPI</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=python" width="44" height="44" alt="Python" /><br /><sub>Python</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=graphql" width="44" height="44" alt="GraphQL" /><br /><sub>GraphQL</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=kafka" width="44" height="44" alt="Kafka" /><br /><sub>Kafka</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=rabbitmq" width="44" height="44" alt="RabbitMQ" /><br /><sub>RabbitMQ</sub></td></tr>
+  <tr><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Node" /><br /><sub>Node</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=nestjs" width="56" height="56" alt="NestJS" /><br /><sub>NestJS</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=express" width="56" height="56" alt="Express" /><br /><sub>Express</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=django" width="56" height="56" alt="Django" /><br /><sub>Django</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=fastapi" width="56" height="56" alt="FastAPI" /><br /><sub>FastAPI</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=python" width="56" height="56" alt="Python" /><br /><sub>Python</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=graphql" width="56" height="56" alt="GraphQL" /><br /><sub>GraphQL</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=kafka" width="56" height="56" alt="Kafka" /><br /><sub>Kafka</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=rabbitmq" width="56" height="56" alt="RabbitMQ" /><br /><sub>RabbitMQ</sub></td></tr>
 </table>
 
 <sub>REST · gRPC · tRPC · WebSockets · microservices · DDD · serverless</sub>
@@ -172,24 +173,23 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 **Data**
 
 <table>
-  <tr><td align="center" width="76"><img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" /><br /><sub>MySQL</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" /><br /><sub>MongoDB</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=dynamodb" width="44" height="44" alt="DynamoDB" /><br /><sub>DynamoDB</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" /><br /><sub>Redis</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=firebase" width="44" height="44" alt="Firebase" /><br /><sub>Firebase</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=elasticsearch" width="44" height="44" alt="Elastic" /><br /><sub>Elastic</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=prisma" width="44" height="44" alt="Prisma" /><br /><sub>Prisma</sub></td></tr>
+  <tr><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="MySQL" /><br /><sub>MySQL</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=mongodb" width="56" height="56" alt="MongoDB" /><br /><sub>MongoDB</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=dynamodb" width="56" height="56" alt="DynamoDB" /><br /><sub>DynamoDB</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=redis" width="56" height="56" alt="Redis" /><br /><sub>Redis</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=firebase" width="56" height="56" alt="Firebase" /><br /><sub>Firebase</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=elasticsearch" width="56" height="56" alt="Elastic" /><br /><sub>Elastic</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=prisma" width="56" height="56" alt="Prisma" /><br /><sub>Prisma</sub></td></tr>
 </table>
 
 <sub>Mongoose</sub>
 
 **AI / ML**
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<table>
+  <tr><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white" height="34" alt="OpenAI" /><br /><sub>OpenAI</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=anthropic&logoColor=white&color=191919" height="34" alt="Anthropic" /><br /><sub>Anthropic</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=googlegemini&logoColor=white&color=886FBF" height="34" alt="Gemini" /><br /><sub>Gemini</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=langchain&logoColor=white&color=1C3C3C" height="34" alt="LangChain" /><br /><sub>LangChain</sub></td></tr>
+</table>
 
 <sub>GPT &amp; LLMs · RAG · embeddings · vector databases · conversational AI · agents · prompt engineering · structured outputs</sub>
 
 **Cloud &amp; DevOps**
 
 <table>
-  <tr><td align="center" width="76"><img src="https://skillicons.dev/icons?i=aws" width="44" height="44" alt="AWS" /><br /><sub>AWS</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=gcp" width="44" height="44" alt="GCP" /><br /><sub>GCP</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=docker" width="44" height="44" alt="Docker" /><br /><sub>Docker</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=kubernetes" width="44" height="44" alt="Kubernetes" /><br /><sub>Kubernetes</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=terraform" width="44" height="44" alt="Terraform" /><br /><sub>Terraform</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" alt="Actions" /><br /><sub>Actions</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=jenkins" width="44" height="44" alt="Jenkins" /><br /><sub>Jenkins</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=nginx" width="44" height="44" alt="NGINX" /><br /><sub>NGINX</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=vercel" width="44" height="44" alt="Vercel" /><br /><sub>Vercel</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=netlify" width="44" height="44" alt="Netlify" /><br /><sub>Netlify</sub></td></tr>
+  <tr><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=aws" width="56" height="56" alt="AWS" /><br /><sub>AWS</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=gcp" width="56" height="56" alt="GCP" /><br /><sub>GCP</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=docker" width="56" height="56" alt="Docker" /><br /><sub>Docker</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=kubernetes" width="56" height="56" alt="Kubernetes" /><br /><sub>Kubernetes</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=terraform" width="56" height="56" alt="Terraform" /><br /><sub>Terraform</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=githubactions" width="56" height="56" alt="Actions" /><br /><sub>Actions</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=jenkins" width="56" height="56" alt="Jenkins" /><br /><sub>Jenkins</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=nginx" width="56" height="56" alt="NGINX" /><br /><sub>NGINX</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" alt="Vercel" /><br /><sub>Vercel</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=netlify" width="56" height="56" alt="Netlify" /><br /><sub>Netlify</sub></td></tr>
 </table>
 
 <sub>GitOps</sub>
@@ -197,7 +197,7 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 **Testing &amp; Observability**
 
 <table>
-  <tr><td align="center" width="76"><img src="https://skillicons.dev/icons?i=jest" width="44" height="44" alt="Jest" /><br /><sub>Jest</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=sentry" width="44" height="44" alt="Sentry" /><br /><sub>Sentry</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=grafana" width="44" height="44" alt="Grafana" /><br /><sub>Grafana</sub></td><td align="center" width="76"><img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" /><br /><sub>Git</sub></td></tr>
+  <tr><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=jest" width="56" height="56" alt="Jest" /><br /><sub>Jest</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=sentry" width="56" height="56" alt="Sentry" /><br /><sub>Sentry</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=grafana" width="56" height="56" alt="Grafana" /><br /><sub>Grafana</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git" /><br /><sub>Git</sub></td></tr>
 </table>
 
 <sub>Cypress · Playwright · ESLint · SonarQube · Datadog</sub>
@@ -206,8 +206,6 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 <sub>JWT · OAuth2 · OIDC · RBAC · ABAC · Cedar policy authorization · OWASP · encryption · TLS</sub>
 
-
-<br/>
 
 ---
 
