@@ -36,7 +36,7 @@ md = md.replace(
 );
 
 if (typeof repos === "number") {
-  const rounded = Math.floor(repos / 10) * 10; // 31 -> "30+"
+  const rounded = Math.floor(repos / 5) * 5; // nearest 5 below: 31->"30+", 36->"35+", 44->"40+"
   md = md.replace(
     /(Repos\s+)\d+\+? public repositories on GitHub/,
     `$1${rounded}+ public repositories on GitHub`
