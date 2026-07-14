@@ -268,15 +268,30 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 </p>
 
 <details>
-<summary>📬 hire-muneeb</summary>
+<summary>🎮 Bonus level: enter the cheat code <code>hire-muneeb</code></summary>
 
 <br/>
 
-Prefer a real person over a landing page? Same. I am open to contracts and reply fast.
+```console
+> hire-muneeb
 
-- Upwork: <https://www.upwork.com/freelancers/~01113fcaa500ee9108>
-- Fiverr: <https://www.fiverr.com/s/yvz1EZq>
-- Email: <muneeb.fusion@gmail.com>
+✔ Availability ......... open to contracts
+✔ Timezone ............. remote, worldwide
+✔ Stack coverage ....... web ✓  mobile ✓  AI ✓  cloud ✓
+✔ Track record ......... 18 shipped products
+✔ Reply speed .......... fast
+
+  CHEAT UNLOCKED: priority response.
+  Message me on any profile below and drop the code "hire-muneeb".
+```
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01113fcaa500ee9108"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>&nbsp;
+  <a href="https://www.fiverr.com/s/yvz1EZq"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>&nbsp;
+  <a href="mailto:muneeb.fusion@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+</p>
+
+Drop the code when you reach out. It tells me you read the whole README, which already puts you in my favorite category of client.
 
 </details>
 
