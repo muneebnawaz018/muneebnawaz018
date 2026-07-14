@@ -18,8 +18,8 @@
 <p align="center">
   <a href="https://muneeb-nawaz-portfolio.netlify.app/"><img src="https://img.shields.io/badge/See_the_work-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.upwork.com/freelancers/~01113fcaa500ee9108"><img src="https://img.shields.io/badge/Start_a_contract-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>&nbsp;
-  <a href="https://www.fiverr.com/s/yvz1EZq"><img src="https://img.shields.io/badge/Order_a_gig-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>&nbsp;
-  <a href="mailto:muneeb.fusion@gmail.com"><img src="https://img.shields.io/badge/Write_to_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.fiverr.com/s/yvz1EZq"><img src="https://img.shields.io/badge/Book_a_gig-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>&nbsp;
+  <a href="mailto:muneeb.fusion@gmail.com"><img src="https://img.shields.io/badge/Write_to_me-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><b>🟢 Open to remote contracts, worldwide</b></p>
@@ -263,8 +263,8 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 <p align="center">
   <a href="https://muneeb-nawaz-portfolio.netlify.app/"><img src="https://img.shields.io/badge/See_the_work-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.upwork.com/freelancers/~01113fcaa500ee9108"><img src="https://img.shields.io/badge/Start_a_contract-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>&nbsp;
-  <a href="https://www.fiverr.com/s/yvz1EZq"><img src="https://img.shields.io/badge/Order_a_gig-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>&nbsp;
-  <a href="mailto:muneeb.fusion@gmail.com"><img src="https://img.shields.io/badge/Write_to_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.fiverr.com/s/yvz1EZq"><img src="https://img.shields.io/badge/Book_a_gig-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>&nbsp;
+  <a href="mailto:muneeb.fusion@gmail.com"><img src="https://img.shields.io/badge/Write_to_me-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 <details>
