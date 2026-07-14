@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=210&section=header&text=Muneeb%20Nawaz&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Sr.%20Full%20Stack%20Developer%20%C2%B7%20Solution%20Architect%20%C2%B7%20Remote%2C%20Worldwide&descSize=18&descAlignY=58" alt="Muneeb Nawaz — Sr. Full Stack Developer & Solution Architect" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=210&section=header&text=Muneeb%20Nawaz&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Sr.%20Full%20Stack%20Developer%20%C2%B7%20Solution%20Architect%20%C2%B7%20Remote%2C%20Worldwide&descSize=18&descAlignY=58" alt="Muneeb Nawaz, Sr. Full Stack Developer and Solution Architect" width="100%" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=21&duration=3200&pause=1000&center=true&vCenter=true&width=780&height=50&color=E6EDF3&lines=Sr.+Full+Stack+Developer+%26+Solution+Architect;Web+apps+%C2%B7+Mobile+apps+%C2%B7+AI+features+%C2%B7+Cloud+infrastructure;6%2B+years+%E2%80%94+one+engineer%2C+the+whole+stack%2C+production-ready" />
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=21&duration=3200&pause=1000&center=true&vCenter=true&width=780&height=50&color=1F2328&lines=Sr.+Full+Stack+Developer+%26+Solution+Architect;Web+apps+%C2%B7+Mobile+apps+%C2%B7+AI+features+%C2%B7+Cloud+infrastructure;6%2B+years+%E2%80%94+one+engineer%2C+the+whole+stack%2C+production-ready" alt="Sr. Full Stack Developer & Solution Architect — web, mobile, AI, cloud — 6+ years" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=21&duration=3200&pause=1000&center=true&vCenter=true&width=780&height=50&color=E6EDF3&lines=Sr.+Full+Stack+Developer+%26+Solution+Architect;Web+apps+%C2%B7+Mobile+apps+%C2%B7+AI+features+%C2%B7+Cloud+infrastructure;6%2B+years%2C+one+engineer%2C+the+whole+stack%2C+production-ready" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=21&duration=3200&pause=1000&center=true&vCenter=true&width=780&height=50&color=1F2328&lines=Sr.+Full+Stack+Developer+%26+Solution+Architect;Web+apps+%C2%B7+Mobile+apps+%C2%B7+AI+features+%C2%B7+Cloud+infrastructure;6%2B+years%2C+one+engineer%2C+the+whole+stack%2C+production-ready" alt="Sr. Full Stack Developer and Solution Architect. Web, mobile, AI, cloud. 6+ years." />
   </picture>
 </div>
 
@@ -21,7 +21,7 @@
   <a href="mailto:muneeb.fusion@gmail.com"><img src="https://img.shields.io/badge/Email-say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><b>🟢 Open to remote contracts — worldwide</b></p>
+<p align="center"><b>🟢 Open to remote contracts, worldwide</b></p>
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 > ### “I architect and ship secure, scalable systems end to end.”
 >
-> One engineer who takes a product from the first architecture diagram to live production traffic — web, mobile, AI, and the cloud it all runs on. Six-plus years of doing exactly that.
+> One engineer who takes a product from the first architecture sketch to live production traffic: the web app, the mobile apps, the AI, and the cloud it all runs on. I have done exactly that for six-plus years.
 
 ```text
       ███╗   ███╗███╗   ██╗      muneeb@remote
@@ -37,7 +37,7 @@
       ██╔████╔██║██╔██╗ ██║      Role       Sr. Full Stack Developer & Solution Architect
       ██║╚██╔╝██║██║╚██╗██║      Uptime     6+ years in production
       ██║ ╚═╝ ██║██║ ╚████║      Kernel     TypeScript / Python
-      ╚═╝     ╚═╝╚═╝  ╚═══╝      Shell      web · mobile · AI · cloud — end to end
+      ╚═╝     ╚═╝╚═╝  ╚═══╝      Shell      web · mobile · AI · cloud, end to end
                                  Packages   18 shipped products (9 web · 9 mobile)
                                  Display    production-ready, whole stack, one person
                                  Location   remote · worldwide
@@ -47,15 +47,15 @@
 <table>
   <tr>
     <td align="center" width="25%"><h3>🌐</h3><b>Web apps</b><br/><br/><sub>React, Next.js, Vue &amp; Angular frontends. Node, NestJS, Django &amp; FastAPI backends.</sub></td>
-    <td align="center" width="25%"><h3>📱</h3><b>Mobile apps</b><br/><br/><sub>React Native &amp; Expo for iOS + Android — offline-first, push, deep linking, store-deployed.</sub></td>
-    <td align="center" width="25%"><h3>🤖</h3><b>AI features</b><br/><br/><sub>RAG, agents &amp; conversational AI with OpenAI, Anthropic &amp; Gemini — structured outputs included.</sub></td>
+    <td align="center" width="25%"><h3>📱</h3><b>Mobile apps</b><br/><br/><sub>React Native and Expo for iOS and Android. Offline-first, push, deep linking, store-deployed.</sub></td>
+    <td align="center" width="25%"><h3>🤖</h3><b>AI features</b><br/><br/><sub>RAG, agents, and conversational AI with OpenAI, Anthropic, and Gemini. Structured outputs included.</sub></td>
     <td align="center" width="25%"><h3>☁️</h3><b>Cloud infra</b><br/><br/><sub>AWS &amp; GCP with Docker, Kubernetes, Terraform &amp; GitOps. CI/CD that ships itself.</sub></td>
   </tr>
 </table>
 
 ### How I ship
 
-Every engagement runs the same pipeline — no hand-offs, no waiting on another team.
+Every engagement runs the same pipeline. No hand-offs, no waiting on another team.
 
 ```mermaid
 flowchart LR
@@ -79,39 +79,39 @@ flowchart LR
 
 <a name="work"></a>
 
-## Selected work — Web
+## Selected work: Web
 
-> **From identity platforms to AI agents.** Nine web products, each designed, built, and shipped end to end by one engineer — frontend, backend, data, and deploy.
+> **Nine web products.** I designed, built, and shipped each one end to end: frontend, backend, data, and deploy.
 
 | Project | What it is | Built with |
 |:--|:--|:--|
-| 🔐 **Gluu Flex** | Admin console for an enterprise identity &amp; access platform (Linux Foundation Janssen Project): SSO, MFA, passkeys, OIDC/OAuth2, SAML, and browser-side Cedar authorization compiled to WASM. | <sub>React 19 · TypeScript · Cedar/WASM · React Query · MUI</sub> |
-| 🎓 **Streamlyne** | Cloud research-administration platform for universities — the full sponsored-research lifecycle from proposals to awards to compliance, plus AI funding discovery and an enterprise assistant. | <sub>React · Python · REST · Kuali Rice · AI</sub> |
-| 🛒 **AAS Platform** | Bilingual marketplace for home &amp; commercial services: contractor bidding, staged Stripe payments, tiered memberships, role-based dashboards. | <sub>React 19 · Vite · Redux Toolkit · Node/Express · MongoDB · Stripe · AWS S3</sub> |
-| 🤖 **Head Office AI** | No-code platform for building AI TeamAgents with personalities — deployable to a web portal, widget, WhatsApp, or API. | <sub>Angular · Express/Socket.IO · OpenAI · Stripe</sub> |
-| 🧭 **Evolo AI Web** | K-12 + adult education platform: job matching, employer matching, career exploration, AI guidance, counseling, chat. | <sub>React · Redux Toolkit · Node/Express · MongoDB · JWT · AWS S3</sub> |
-| 💪 **NWFIT AI** | AI fitness coaching: adaptive workout plans, progress tracking, move-to-earn rewards. | <sub>Next.js · TypeScript · MUI · Node/Express · DO Spaces</sub> |
-| ☁️ **Train GRC** | Cloud-auditing training platform: Teachable courses, hands-on AWS labs, Calendly advisory. | <sub>React SPA on S3/CloudFront · AWS Lambda serverless signup</sub> |
-| 🏗️ **House Screw** | LinkedIn-style network for construction trades: feed, profiles, analytics, connections, jobs, real-time chat. | <sub>MERN · Redux Toolkit · Socket.IO · JWT</sub> |
-| 🏫 **KiddieCove Web** | Public site + admin console for a school platform; its NestJS API also backs the parent/teacher/driver mobile apps. | <sub>React · NestJS · Socket.io · REST</sub> |
+| 🔐 **Gluu&nbsp;Flex** | Admin console for an enterprise identity and access platform (Linux Foundation Janssen Project): SSO, MFA, passkeys, OIDC/OAuth2, SAML, and browser-side Cedar authorization compiled to WASM. | <sub>React 19 · TypeScript · Cedar/WASM · React Query · MUI</sub> |
+| 🎓 **Streamlyne** | Cloud research-administration platform for universities. Runs the full sponsored-research lifecycle from proposals to awards to compliance, plus AI funding discovery and an enterprise assistant. | <sub>React · Python · REST · Kuali Rice · AI</sub> |
+| 🛒 **AAS&nbsp;Platform** | Bilingual marketplace for home and commercial services: contractor bidding, staged Stripe payments, tiered memberships, role-based dashboards. | <sub>React 19 · Vite · Redux Toolkit · Node/Express · MongoDB · Stripe · AWS S3</sub> |
+| 🤖 **Head&nbsp;Office&nbsp;AI** | No-code platform for building AI TeamAgents with personalities. Deploys to a web portal, widget, WhatsApp, or API. | <sub>Angular · Express/Socket.IO · OpenAI · Stripe</sub> |
+| 🧭 **Evolo&nbsp;AI&nbsp;Web** | K-12 and adult education platform: job matching, employer matching, career exploration, AI guidance, counseling, chat. | <sub>React · Redux Toolkit · Node/Express · MongoDB · JWT · AWS S3</sub> |
+| 💪 **NWFIT&nbsp;AI** | AI fitness coaching: adaptive workout plans, progress tracking, move-to-earn rewards. | <sub>Next.js · TypeScript · MUI · Node/Express · DO Spaces</sub> |
+| ☁️ **Train&nbsp;GRC** | Cloud-auditing training platform: Teachable courses, hands-on AWS labs, Calendly advisory. | <sub>React SPA on S3/CloudFront · AWS Lambda serverless signup</sub> |
+| 🏗️ **House&nbsp;Screw** | LinkedIn-style network for construction trades: feed, profiles, analytics, connections, jobs, real-time chat. | <sub>MERN · Redux Toolkit · Socket.IO · JWT</sub> |
+| 🏫 **KiddieCove&nbsp;Web** | Public site and admin console for a school platform. Its NestJS API also backs the parent, teacher, and driver mobile apps. | <sub>React · NestJS · Socket.io · REST</sub> |
 
 <br/>
 
-## Selected work — Mobile
+## Selected work: Mobile
 
-> **Same engineer, smaller screen.** Nine products shipped to iOS and Android — payments, proof-of-presence, school operations, and a UAE government content-monitoring app among them.
+> **Same engineer, smaller screen.** Nine products shipped to iOS and Android, including payments, proof-of-presence, school operations, and a UAE government content-monitoring app.
 
 | Project | What it is | Built with |
 |:--|:--|:--|
-| 🧭 **Evolo AI Student** | iOS/Android education app: job matching, career exploration, AI guidance, events, chats, push notifications. | <sub>React Native · Redux Toolkit · React Navigation · JWT · FCM/APNs</sub> |
-| 🧑‍🏫 **Evolo AI School** | iOS/Android instructor app: track applications, feedback, employment progress, and sessions. | <sub>React Native · Redux Toolkit · React Navigation · JWT · FCM/APNs</sub> |
+| 🧭 **Evolo&nbsp;AI&nbsp;Student** | iOS/Android education app: job matching, career exploration, AI guidance, events, chats, push notifications. | <sub>React Native · Redux Toolkit · React Navigation · JWT · FCM/APNs</sub> |
+| 🧑‍🏫 **Evolo&nbsp;AI&nbsp;School** | iOS/Android instructor app: track applications, feedback, employment progress, and sessions. | <sub>React Native · Redux Toolkit · React Navigation · JWT · FCM/APNs</sub> |
 | 🏫 **KiddieCove** | iOS/Android/Web school management: kid tracking, real-time chat, timetables, attendance, invoicing, live transport tracking. | <sub>React Native · Zustand · React Query · Socket.io · Maps · NestJS</sub> |
 | 💳 **VemosPay** | QR-at-table restaurant payments integrated with Toast POS: tab splitting, orders, loyalty, memberships, event tickets, and an App Clip. | <sub>React Native · Expo · Redux Toolkit · Apple/Google Pay · Firebase · Reanimated</sub> |
 | 💪 **NWFIT** | iOS/Android companion for the AI fitness platform: adaptive plans, progress, move-to-earn. | <sub>React Native · Node/Express · REST · DO Spaces</sub> |
-| 📍 **GeoFace** | iOS proof-of-presence: face scan + live location + trusted timestamp → a shareable Certificate of Validation with QR. | <sub>React Native · Redux · Facial recognition · Google Maps SDK · Wallet/IAP</sub> |
+| 📍 **GeoFace** | iOS proof-of-presence: a face scan, live location, and trusted timestamp produce a shareable Certificate of Validation with a QR code. | <sub>React Native · Redux · Facial recognition · Google Maps SDK · Wallet/IAP</sub> |
 | 🇦🇪 **A'men** | UAE Media Council content-monitoring app: residents flag misleading media (link, image, or voice note), full RTL Arabic/English, UAE Pass OAuth. | <sub>React Native · Redux Toolkit · RTK Query</sub> |
 | 🎓 **Uroots** | Campus social network: community feed, polls, video, real-time chat, marketplace, events, class rosters. | <sub>React Native · TypeScript · Redux · Firebase · AWS S3 · Pusher</sub> |
-| 📊 **Adalo Chart Component** | Custom native bar-chart component for the Adalo no-code platform. | <sub>React Native · Victory</sub> |
+| 📊 **Adalo&nbsp;Chart&nbsp;Component** | Custom native bar-chart component for the Adalo no-code platform. | <sub>React Native · Victory</sub> |
 
 <br/>
 
@@ -263,7 +263,7 @@ flowchart LR
 
 ## Work with me
 
-> **Have something that needs to exist?** I take products from whiteboard to production — solo, or embedded with your team. Currently open to remote contracts, worldwide.
+> **Have something that needs to exist?** I take products from whiteboard to production, solo or embedded with your team. Currently open to remote contracts, worldwide.
 
 <p align="center">
   <a href="https://muneeb-nawaz-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-see_the_work-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
@@ -272,13 +272,13 @@ flowchart LR
 </p>
 
 <details>
-<summary>🎮 Bonus level — enter the Konami code</summary>
+<summary>🎮 Bonus level: enter the Konami code</summary>
 
 <br/>
 
 <p align="center"><kbd>↑</kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>B</kbd> <kbd>A</kbd></p>
 
-🎉 **Cheat unlocked: priority response.** Message me on <a href="https://www.upwork.com/freelancers/~01113fcaa500ee9108">Upwork</a> and mention the Konami code — I'll know you read the whole README, which already puts you in my favorite category of client.
+🎉 **Cheat unlocked: priority response.** Message me on <a href="https://www.upwork.com/freelancers/~01113fcaa500ee9108">Upwork</a> and mention the Konami code. I'll know you read the whole README, which already puts you in my favorite category of client.
 
 </details>
 
@@ -287,7 +287,7 @@ flowchart LR
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=muneebnawaz018&color=6366f1&style=flat-square&label=profile+views" alt="Profile views" />
   <br/><br/>
-  <sub>Built like a product page — theme-aware, light and dark. Reliability is a feature.</sub>
+  <sub>Built like a product page: theme-aware, light and dark. Reliability is a feature.</sub>
 </div>
 
 <div align="center">
