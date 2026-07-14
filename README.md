@@ -40,7 +40,7 @@
       ██║ ╚═╝ ██║██║ ╚████║      Kernel     TypeScript / Python
       ╚═╝     ╚═╝╚═╝  ╚═══╝      Shell      web · mobile · AI · cloud, end to end
                                  Products   18 shipped (9 web · 9 mobile)
-                                 Repos      31 public repositories on GitHub
+                                 Repos      30+ public repositories on GitHub
                                  Display    production-ready, whole stack, one person
                                  Location   remote · worldwide
                                  Status     open to contracts

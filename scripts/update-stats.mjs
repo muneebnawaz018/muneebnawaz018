@@ -36,9 +36,10 @@ md = md.replace(
 );
 
 if (typeof repos === "number") {
+  const rounded = Math.floor(repos / 10) * 10; // 31 -> "30+"
   md = md.replace(
-    /(Repos\s+)\d+ public repositories on GitHub/,
-    `$1${repos} public repositories on GitHub`
+    /(Repos\s+)\d+\+? public repositories on GitHub/,
+    `$1${rounded}+ public repositories on GitHub`
   );
 }
 
