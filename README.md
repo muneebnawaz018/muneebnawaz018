@@ -57,21 +57,13 @@
 
 Every engagement runs the same pipeline. No hand-offs, no waiting on another team.
 
-```mermaid
-flowchart LR
-    A([💡 Idea]) --> B{Scope it}
-    B -- too big --> C[✂️ Cut ruthlessly]
-    C --> B
-    B -- just right --> D[📐 Architect it]
-    D --> E[⌨️ Build it]
-    E --> F{Tests pass?}
-    F -- red --> E
-    F -- green --> G[🚀 Ship it]
-    G --> H[📈 Monitor it]
-    H -- 3am alert --> E
-    H -- all quiet --> I([😴 Sleep])
-    I --> A
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/how-i-ship-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/how-i-ship-light.svg" />
+    <img alt="How I ship: Idea, Scope, Architect, Build, Test, Ship, Monitor, then repeat. Tests red loops back to Build; green means ship, sleep, repeat." src="assets/how-i-ship-dark.svg" width="900" />
+  </picture>
+</div>
 
 <br/>
 
@@ -85,15 +77,15 @@ flowchart LR
 
 | Project | What it is | Built with |
 |:--|:--|:--|
-| 🔐 **Gluu&nbsp;Flex** | Admin console for an enterprise identity and access platform (Linux Foundation Janssen Project): SSO, MFA, passkeys, OIDC/OAuth2, SAML, and browser-side Cedar authorization compiled to WASM. | <sub>React 19 · TypeScript · Cedar/WASM · React Query · MUI</sub> |
-| 🎓 **Streamlyne** | Cloud research-administration platform for universities. Runs the full sponsored-research lifecycle from proposals to awards to compliance, plus AI funding discovery and an enterprise assistant. | <sub>React · Python · REST · Kuali Rice · AI</sub> |
-| 🛒 **AAS&nbsp;Platform** | Bilingual marketplace for home and commercial services: contractor bidding, staged Stripe payments, tiered memberships, role-based dashboards. | <sub>React 19 · Vite · Redux Toolkit · Node/Express · MongoDB · Stripe · AWS S3</sub> |
-| 🤖 **Head&nbsp;Office&nbsp;AI** | No-code platform for building AI TeamAgents with personalities. Deploys to a web portal, widget, WhatsApp, or API. | <sub>Angular · Express/Socket.IO · OpenAI · Stripe</sub> |
-| 🧭 **Evolo&nbsp;AI&nbsp;Web** | K-12 and adult education platform: job matching, employer matching, career exploration, AI guidance, counseling, chat. | <sub>React · Redux Toolkit · Node/Express · MongoDB · JWT · AWS S3</sub> |
-| 💪 **NWFIT&nbsp;AI** | AI fitness coaching: adaptive workout plans, progress tracking, move-to-earn rewards. | <sub>Next.js · TypeScript · MUI · Node/Express · DO Spaces</sub> |
-| ☁️ **Train&nbsp;GRC** | Cloud-auditing training platform: Teachable courses, hands-on AWS labs, Calendly advisory. | <sub>React SPA on S3/CloudFront · AWS Lambda serverless signup</sub> |
-| 🏗️ **House&nbsp;Screw** | LinkedIn-style network for construction trades: feed, profiles, analytics, connections, jobs, real-time chat. | <sub>MERN · Redux Toolkit · Socket.IO · JWT</sub> |
-| 🏫 **KiddieCove&nbsp;Web** | Public site and admin console for a school platform. Its NestJS API also backs the parent, teacher, and driver mobile apps. | <sub>React · NestJS · Socket.io · REST</sub> |
+| 🔐&nbsp;**Gluu&nbsp;Flex** | Admin console for an enterprise identity and access platform (Linux Foundation Janssen Project): SSO, MFA, passkeys, OIDC/OAuth2, SAML, and browser-side Cedar authorization compiled to WASM. | <sub>React 19 · TypeScript · Cedar/WASM · React Query · MUI</sub> |
+| 🎓&nbsp;**Streamlyne** | Cloud research-administration platform for universities. Runs the full sponsored-research lifecycle from proposals to awards to compliance, plus AI funding discovery and an enterprise assistant. | <sub>React · Python · REST · Kuali Rice · AI</sub> |
+| 🛒&nbsp;**AAS&nbsp;Platform** | Bilingual marketplace for home and commercial services: contractor bidding, staged Stripe payments, tiered memberships, role-based dashboards. | <sub>React 19 · Vite · Redux Toolkit · Node/Express · MongoDB · Stripe · AWS S3</sub> |
+| 🤖&nbsp;**Head&nbsp;Office&nbsp;AI** | No-code platform for building AI TeamAgents with personalities. Deploys to a web portal, widget, WhatsApp, or API. | <sub>Angular · Express/Socket.IO · OpenAI · Stripe</sub> |
+| 🧭&nbsp;**Evolo&nbsp;AI&nbsp;Web** | K-12 and adult education platform: job matching, employer matching, career exploration, AI guidance, counseling, chat. | <sub>React · Redux Toolkit · Node/Express · MongoDB · JWT · AWS S3</sub> |
+| 💪&nbsp;**NWFIT&nbsp;AI** | AI fitness coaching: adaptive workout plans, progress tracking, move-to-earn rewards. | <sub>Next.js · TypeScript · MUI · Node/Express · DO Spaces</sub> |
+| ☁️&nbsp;**Train&nbsp;GRC** | Cloud-auditing training platform: Teachable courses, hands-on AWS labs, Calendly advisory. | <sub>React SPA on S3/CloudFront · AWS Lambda serverless signup</sub> |
+| 🏗️&nbsp;**House&nbsp;Screw** | LinkedIn-style network for construction trades: feed, profiles, analytics, connections, jobs, real-time chat. | <sub>MERN · Redux Toolkit · Socket.IO · JWT</sub> |
+| 🏫&nbsp;**KiddieCove&nbsp;Web** | Public site and admin console for a school platform. Its NestJS API also backs the parent, teacher, and driver mobile apps. | <sub>React · NestJS · Socket.io · REST</sub> |
 
 <br/>
 
@@ -103,15 +95,15 @@ flowchart LR
 
 | Project | What it is | Built with |
 |:--|:--|:--|
-| 🧭 **Evolo&nbsp;AI&nbsp;Student** | iOS/Android education app: job matching, career exploration, AI guidance, events, chats, push notifications. | <sub>React Native · Redux Toolkit · React Navigation · JWT · FCM/APNs</sub> |
-| 🧑‍🏫 **Evolo&nbsp;AI&nbsp;School** | iOS/Android instructor app: track applications, feedback, employment progress, and sessions. | <sub>React Native · Redux Toolkit · React Navigation · JWT · FCM/APNs</sub> |
-| 🏫 **KiddieCove** | iOS/Android/Web school management: kid tracking, real-time chat, timetables, attendance, invoicing, live transport tracking. | <sub>React Native · Zustand · React Query · Socket.io · Maps · NestJS</sub> |
-| 💳 **VemosPay** | QR-at-table restaurant payments integrated with Toast POS: tab splitting, orders, loyalty, memberships, event tickets, and an App Clip. | <sub>React Native · Expo · Redux Toolkit · Apple/Google Pay · Firebase · Reanimated</sub> |
-| 💪 **NWFIT** | iOS/Android companion for the AI fitness platform: adaptive plans, progress, move-to-earn. | <sub>React Native · Node/Express · REST · DO Spaces</sub> |
-| 📍 **GeoFace** | iOS proof-of-presence: a face scan, live location, and trusted timestamp produce a shareable Certificate of Validation with a QR code. | <sub>React Native · Redux · Facial recognition · Google Maps SDK · Wallet/IAP</sub> |
-| 🇦🇪 **A'men** | UAE Media Council content-monitoring app: residents flag misleading media (link, image, or voice note), full RTL Arabic/English, UAE Pass OAuth. | <sub>React Native · Redux Toolkit · RTK Query</sub> |
-| 🎓 **Uroots** | Campus social network: community feed, polls, video, real-time chat, marketplace, events, class rosters. | <sub>React Native · TypeScript · Redux · Firebase · AWS S3 · Pusher</sub> |
-| 📊 **Adalo&nbsp;Chart&nbsp;Component** | Custom native bar-chart component for the Adalo no-code platform. | <sub>React Native · Victory</sub> |
+| 🧭&nbsp;**Evolo&nbsp;AI&nbsp;Student** | iOS/Android education app: job matching, career exploration, AI guidance, events, chats, push notifications. | <sub>React Native · Redux Toolkit · React Navigation · JWT · FCM/APNs</sub> |
+| 🧑‍🏫&nbsp;**Evolo&nbsp;AI&nbsp;School** | iOS/Android instructor app: track applications, feedback, employment progress, and sessions. | <sub>React Native · Redux Toolkit · React Navigation · JWT · FCM/APNs</sub> |
+| 🏫&nbsp;**KiddieCove** | iOS/Android/Web school management: kid tracking, real-time chat, timetables, attendance, invoicing, live transport tracking. | <sub>React Native · Zustand · React Query · Socket.io · Maps · NestJS</sub> |
+| 💳&nbsp;**VemosPay** | QR-at-table restaurant payments integrated with Toast POS: tab splitting, orders, loyalty, memberships, event tickets, and an App Clip. | <sub>React Native · Expo · Redux Toolkit · Apple/Google Pay · Firebase · Reanimated</sub> |
+| 💪&nbsp;**NWFIT** | iOS/Android companion for the AI fitness platform: adaptive plans, progress, move-to-earn. | <sub>React Native · Node/Express · REST · DO Spaces</sub> |
+| 📍&nbsp;**GeoFace** | iOS proof-of-presence: a face scan, live location, and trusted timestamp produce a shareable Certificate of Validation with a QR code. | <sub>React Native · Redux · Facial recognition · Google Maps SDK · Wallet/IAP</sub> |
+| 🇦🇪&nbsp;**A'men** | UAE Media Council content-monitoring app: residents flag misleading media (link, image, or voice note), full RTL Arabic/English, UAE Pass OAuth. | <sub>React Native · Redux Toolkit · RTK Query</sub> |
+| 🎓&nbsp;**Uroots** | Campus social network: community feed, polls, video, real-time chat, marketplace, events, class rosters. | <sub>React Native · TypeScript · Redux · Firebase · AWS S3 · Pusher</sub> |
+| 📊&nbsp;**Adalo&nbsp;Chart&nbsp;Component** | Custom native bar-chart component for the Adalo no-code platform. | <sub>React Native · Victory</sub> |
 
 <br/>
 
@@ -237,13 +229,6 @@ flowchart LR
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muneebnawaz018&theme=dark&hide_border=true&background=0D1117" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneebnawaz018&theme=default&hide_border=true" alt="GitHub streak stats" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=muneebnawaz018&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" />
-  <img src="https://github-profile-trophy.vercel.app/?username=muneebnawaz018&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" alt="GitHub trophies" />
 </picture>
 
 <br/><br/>
