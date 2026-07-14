@@ -296,5 +296,5 @@ Mention this command when you reach out. It tells me you read the whole README, 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=160&section=footer&text=Let%27s%20build%20something%20that%20ships&fontSize=26&fontColor=ffffff&fontAlignY=72&desc=You%20made%20it%20to%20the%20bottom.%20Now%20let%27s%20talk.&descSize=15&descAlignY=90" alt="Let's build something that ships" width="100%" />
 </div>
