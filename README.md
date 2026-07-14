@@ -43,15 +43,15 @@
                                  Repos      31 public repositories on GitHub
                                  Display    production-ready, whole stack, one person
                                  Location   remote · worldwide
-                                 Status     open to remote contracts
+                                 Status     open to contracts
 ```
 
 <table>
   <tr>
-    <td align="center" width="25%"><h3>🌐</h3><b>Web apps</b><br/><br/><sub>React, Next.js, Vue &amp; Angular frontends. Node, NestJS, Django &amp; FastAPI backends.</sub></td>
-    <td align="center" width="25%"><h3>📱</h3><b>Mobile apps</b><br/><br/><sub>React Native and Expo for iOS and Android. Offline-first, push, deep linking, store-deployed.</sub></td>
-    <td align="center" width="25%"><h3>🤖</h3><b>AI features</b><br/><br/><sub>RAG, agents, and conversational AI with OpenAI, Anthropic, and Gemini. Structured outputs included.</sub></td>
-    <td align="center" width="25%"><h3>☁️</h3><b>Cloud infra</b><br/><br/><sub>AWS &amp; GCP with Docker, Kubernetes, Terraform &amp; GitOps. CI/CD that ships itself.</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f310.png" width="52" height="52" alt="Web" /><br /><br /><b>Web apps</b><br/><br/><sub>React, Next.js, Vue &amp; Angular frontends. Node, NestJS, Django &amp; FastAPI backends.</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f4f1.png" width="52" height="52" alt="Mobile" /><br /><br /><b>Mobile apps</b><br/><br/><sub>React Native and Expo for iOS and Android. Offline-first, push, deep linking, store-deployed.</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f916.png" width="52" height="52" alt="AI" /><br /><br /><b>AI features</b><br/><br/><sub>RAG, agents, and conversational AI with OpenAI, Anthropic, and Gemini. Structured outputs included.</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/2601.png" width="52" height="52" alt="Cloud" /><br /><br /><b>Cloud infra</b><br/><br/><sub>AWS &amp; GCP with Docker, Kubernetes, Terraform &amp; GitOps. CI/CD that ships itself.</sub></td>
   </tr>
 </table>
 
@@ -268,24 +268,15 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 </p>
 
 <details>
-<summary>🥚 Bonus level: run <code>npx hire-muneeb</code></summary>
+<summary>📬 hire-muneeb</summary>
 
 <br/>
 
-```console
-$ npx hire-muneeb --role="full-stack" --mode=remote
-✔ Resolving availability ............ open to remote contracts
-✔ Checking timezone overlap ......... remote, worldwide
-✔ Verifying stack coverage .......... web ✓  mobile ✓  AI ✓  cloud ✓
-✔ Reading references ................ 18 shipped products
-✔ Running vibe check ................ passed
+Prefer a real person over a landing page? Same. I am open to contracts and reply fast.
 
-  Ready to start. Next step is yours:
-  → https://www.upwork.com/freelancers/~01113fcaa500ee9108
-  → muneeb.fusion@gmail.com
-```
-
-Mention this command when you reach out. It tells me you read the whole README, which already puts you in my favorite category of client.
+- Upwork: <https://www.upwork.com/freelancers/~01113fcaa500ee9108>
+- Fiverr: <https://www.fiverr.com/s/yvz1EZq>
+- Email: <muneeb.fusion@gmail.com>
 
 </details>
 
