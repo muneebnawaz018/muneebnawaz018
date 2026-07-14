@@ -274,15 +274,7 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 ```console
 > hire-muneeb
-
-✔ Availability ......... open to contracts
-✔ Timezone ............. remote, worldwide
-✔ Stack coverage ....... web ✓  mobile ✓  AI ✓  cloud ✓
-✔ Track record ......... 18 shipped products
-✔ Reply speed .......... fast
-
-  CHEAT UNLOCKED: priority response.
-  Message me on any profile below and drop the code "hire-muneeb".
+CHEAT UNLOCKED: priority response. Message me on any profile below and drop the code "hire-muneeb".
 ```
 
 <p align="center">
