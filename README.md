@@ -114,29 +114,41 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 ## Experience
 
-#### Senior Full Stack Engineer &amp; Solution Architect
-**Walqalum Technologies** · Jan 2025 – Present
+<details open>
+<summary><b>Senior Full Stack Engineer &amp; Solution Architect</b> · Walqalum Technologies · Jan 2025 – Present</summary>
+
+<br/>
 
 - Microservices with Node.js + NestJS on domain-driven design
 - Database architecture across MongoDB + Redis
 - Resilient AWS systems (ECS, EKS) secured with OAuth2, JWT, and RBAC
 - CI/CD pipelines with Docker, Kubernetes, and Terraform
 
-#### Senior Full Stack Engineer
-**YieldWerx Semiconductor** · Nov 2023 – Dec 2024
+</details>
+
+<details>
+<summary><b>Senior Full Stack Engineer</b> · YieldWerx Semiconductor · Nov 2023 – Dec 2024</summary>
+
+<br/>
 
 - React + TypeScript frontend, Node + NestJS backend
 - High-throughput REST + GraphQL APIs with Prisma
 - PostgreSQL optimization: indexing and query planning
 - Data-intensive UIs with Plotly.js
 
-#### Full Stack Engineer
-**WalQalum Technologies** · Nov 2020 – Oct 2023
+</details>
+
+<details>
+<summary><b>Full Stack Engineer</b> · WalQalum Technologies · Nov 2020 – Oct 2023</summary>
+
+<br/>
 
 - MERN + React Native apps with REST + GraphQL APIs
 - Real-time features on WebSocket / Socket.io
 - Redux / Context state management
 - JWT, OAuth2, and RBAC security
+
+</details>
 
 <br/>
 
@@ -254,13 +266,24 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 </p>
 
 <details>
-<summary>🎮 Bonus level: enter the Konami code</summary>
+<summary>🥚 Bonus level: run <code>npx hire-muneeb</code></summary>
 
 <br/>
 
-<p align="center"><kbd>↑</kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>B</kbd> <kbd>A</kbd></p>
+```console
+$ npx hire-muneeb --role="full-stack" --mode=remote
+✔ Resolving availability ............ open to remote contracts
+✔ Checking timezone overlap ......... remote, worldwide
+✔ Verifying stack coverage .......... web ✓  mobile ✓  AI ✓  cloud ✓
+✔ Reading references ................ 18 shipped products
+✔ Running vibe check ................ passed
 
-🎉 **Cheat unlocked: priority response.** Message me on <a href="https://www.upwork.com/freelancers/~01113fcaa500ee9108">Upwork</a> and mention the Konami code. I'll know you read the whole README, which already puts you in my favorite category of client.
+  Ready to start. Next step is yours:
+  → https://www.upwork.com/freelancers/~01113fcaa500ee9108
+  → muneeb.fusion@gmail.com
+```
+
+Mention this command when you reach out. It tells me you read the whole README, which already puts you in my favorite category of client.
 
 </details>
 
