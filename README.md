@@ -290,7 +290,8 @@ Drop the code when you reach out. It tells me you read the whole README, which a
 <br/>
 
 <div align="center">
-  <a href="https://github.com/muneebnawaz018?tab=followers"><img src="https://img.shields.io/github/followers/muneebnawaz018?style=flat-square&logo=github&label=Followers&color=6366f1&labelColor=1f2328" alt="GitHub followers" /></a>
+  <a href="https://github.com/muneebnawaz018?tab=followers"><img src="https://img.shields.io/github/followers/muneebnawaz018?style=flat-square&logo=github&label=Followers&color=6366f1&labelColor=1f2328" alt="GitHub followers" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=muneebnawaz018&color=6366f1&style=flat-square&label=profile+views" alt="Profile views" />
   <br/><br/>
   <sub>Built like a product page: theme-aware, light and dark. Reliability is a feature.</sub>
 </div>
