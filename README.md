@@ -75,11 +75,10 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 ## Selected work: Web
 
-> **Nine web products.** I designed, built, and shipped each one end to end: frontend, backend, data, and deploy.
+> **Eight web products.** I designed, built, and shipped each one end to end: frontend, backend, data, and deploy.
 
 | Project | What it is | Built with |
-|:--|:--|:--|
-| 🔐&nbsp;**Gluu&nbsp;Flex** | Admin console for an enterprise identity and access platform (Linux Foundation Janssen Project): SSO, MFA, passkeys, OIDC/OAuth2, SAML, and browser-side Cedar authorization compiled to WASM. | <sub>React 19 · TypeScript · Cedar/WASM · React Query · MUI</sub> |
+| :-- | :-- | :-- |
 | 🎓&nbsp;**Streamlyne** | Cloud research-administration platform for universities. Runs the full sponsored-research lifecycle from proposals to awards to compliance, plus AI funding discovery and an enterprise assistant. | <sub>React · Python · REST · Kuali Rice · AI</sub> |
 | 🛒&nbsp;**AAS&nbsp;Platform** | Bilingual marketplace for home and commercial services: contractor bidding, staged Stripe payments, tiered memberships, role-based dashboards. | <sub>React 19 · Vite · Redux Toolkit · Node/Express · MongoDB · Stripe · AWS S3</sub> |
 | 🤖&nbsp;**Head&nbsp;Office&nbsp;AI** | No-code platform for building AI TeamAgents with personalities. Deploys to a web portal, widget, WhatsApp, or API. | <sub>Angular · Express/Socket.IO · OpenAI · Stripe</sub> |
@@ -89,23 +88,26 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 | 🏗️&nbsp;**House&nbsp;Screw** | LinkedIn-style network for construction trades: feed, profiles, analytics, connections, jobs, real-time chat. | <sub>MERN · Redux Toolkit · Socket.IO · JWT</sub> |
 | 🏫&nbsp;**KiddieCove&nbsp;Web** | Public site and admin console for a school platform. Its NestJS API also backs the parent, teacher, and driver mobile apps. | <sub>React · NestJS · Socket.io · REST</sub> |
 
+<!-- | 🔐&nbsp;**Gluu&nbsp;Flex** | Admin console for an enterprise identity and access platform (Linux Foundation Janssen Project): SSO, MFA, passkeys, OIDC/OAuth2, SAML, and browser-side Cedar authorization compiled to WASM. | <sub>React 19 · TypeScript · Cedar/WASM · React Query · MUI</sub> | -->
+
 <br/>
 
 ## Selected work: Mobile
 
-> **Same engineer, smaller screen.** Nine products shipped to iOS and Android, including payments, proof-of-presence, school operations, and a UAE government content-monitoring app.
+> **Same engineer, smaller screen.** Eight products shipped to iOS and Android, including payments, proof-of-presence, school operations, and a UAE government content-monitoring app.
 
 | Project | What it is | Built with |
-|:--|:--|:--|
+| :-- | :-- | :-- |
 | 🧭&nbsp;**Evolo&nbsp;AI&nbsp;Student** | iOS/Android education app: job matching, career exploration, AI guidance, events, chats, push notifications. | <sub>React Native · Redux Toolkit · React Navigation · JWT · FCM/APNs</sub> |
 | 🧑‍🏫&nbsp;**Evolo&nbsp;AI&nbsp;School** | iOS/Android instructor app: track applications, feedback, employment progress, and sessions. | <sub>React Native · Redux Toolkit · React Navigation · JWT · FCM/APNs</sub> |
 | 🏫&nbsp;**KiddieCove** | iOS/Android/Web school management: kid tracking, real-time chat, timetables, attendance, invoicing, live transport tracking. | <sub>React Native · Zustand · React Query · Socket.io · Maps · NestJS</sub> |
-| 💳&nbsp;**VemosPay** | QR-at-table restaurant payments integrated with Toast POS: tab splitting, orders, loyalty, memberships, event tickets, and an App Clip. | <sub>React Native · Expo · Redux Toolkit · Apple/Google Pay · Firebase · Reanimated</sub> |
 | 💪&nbsp;**NWFIT** | iOS/Android companion for the AI fitness platform: adaptive plans, progress, move-to-earn. | <sub>React Native · Node/Express · REST · DO Spaces</sub> |
 | 📍&nbsp;**GeoFace** | iOS proof-of-presence: a face scan, live location, and trusted timestamp produce a shareable Certificate of Validation with a QR code. | <sub>React Native · Redux · Facial recognition · Google Maps SDK · Wallet/IAP</sub> |
 | 🇦🇪&nbsp;**A'men** | UAE Media Council content-monitoring app: residents flag misleading media (link, image, or voice note), full RTL Arabic/English, UAE Pass OAuth. | <sub>React Native · Redux Toolkit · RTK Query</sub> |
 | 🎓&nbsp;**Uroots** | Campus social network: community feed, polls, video, real-time chat, marketplace, events, class rosters. | <sub>React Native · TypeScript · Redux · Firebase · AWS S3 · Pusher</sub> |
 | 📊&nbsp;**Adalo&nbsp;Chart&nbsp;Component** | Custom native bar-chart component for the Adalo no-code platform. | <sub>React Native · Victory</sub> |
+
+<!-- | 💳&nbsp;**VemosPay** | QR-at-table restaurant payments integrated with Toast POS: tab splitting, orders, loyalty, memberships, event tickets, and an App Clip. | <sub>React Native · Expo · Redux Toolkit · Apple/Google Pay · Firebase · Reanimated</sub> | -->
 
 <br/>
 
@@ -159,7 +161,7 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 ## Toolbox
 
-**Frontend**
+### Frontend
 
 <table>
   <tr><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=react" width="56" height="56" alt="React" /><br /><sub>React</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" alt="Next" /><br /><sub>Next</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=vue" width="56" height="56" alt="Vue" /><br /><sub>Vue</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=angular" width="56" height="56" alt="Angular" /><br /><sub>Angular</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="TypeScript" /><br /><sub>TypeScript</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=js" width="56" height="56" alt="JavaScript" /><br /><sub>JavaScript</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=redux" width="56" height="56" alt="Redux" /><br /><sub>Redux</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=tailwind" width="56" height="56" alt="Tailwind" /><br /><sub>Tailwind</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=html" width="56" height="56" alt="HTML" /><br /><sub>HTML</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=css" width="56" height="56" alt="CSS" /><br /><sub>CSS</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=webpack" width="56" height="56" alt="Webpack" /><br /><sub>Webpack</sub></td></tr>
@@ -167,7 +169,7 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 <sub>Also: TanStack Query · PWA · accessibility (a11y)</sub>
 
-**Mobile**
+### Mobile
 
 <table>
   <tr><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A" height="34" alt="React Native" /><br /><sub>React Native</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=expo&logoColor=white&color=1B1F23" height="34" alt="Expo" /><br /><sub>Expo</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=apple&logoColor=white&color=000000" height="34" alt="iOS" /><br /><sub>iOS</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=android&logoColor=white&color=3DDC84" height="34" alt="Android" /><br /><sub>Android</sub></td></tr>
@@ -175,7 +177,7 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 <sub>Native modules · deep linking · offline-first · push notifications · CodePush · App Store &amp; Play Store deployment</sub>
 
-**Backend**
+### Backend
 
 <table>
   <tr><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" alt="Node" /><br /><sub>Node</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=nestjs" width="56" height="56" alt="NestJS" /><br /><sub>NestJS</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=express" width="56" height="56" alt="Express" /><br /><sub>Express</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=django" width="56" height="56" alt="Django" /><br /><sub>Django</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=fastapi" width="56" height="56" alt="FastAPI" /><br /><sub>FastAPI</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=python" width="56" height="56" alt="Python" /><br /><sub>Python</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=graphql" width="56" height="56" alt="GraphQL" /><br /><sub>GraphQL</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=kafka" width="56" height="56" alt="Kafka" /><br /><sub>Kafka</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=rabbitmq" width="56" height="56" alt="RabbitMQ" /><br /><sub>RabbitMQ</sub></td></tr>
@@ -183,7 +185,7 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 <sub>REST · gRPC · tRPC · WebSockets · microservices · DDD · serverless</sub>
 
-**Data**
+### Data
 
 <table>
   <tr><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" alt="MySQL" /><br /><sub>MySQL</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=mongodb" width="56" height="56" alt="MongoDB" /><br /><sub>MongoDB</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=dynamodb" width="56" height="56" alt="DynamoDB" /><br /><sub>DynamoDB</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=redis" width="56" height="56" alt="Redis" /><br /><sub>Redis</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=firebase" width="56" height="56" alt="Firebase" /><br /><sub>Firebase</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=elasticsearch" width="56" height="56" alt="Elastic" /><br /><sub>Elastic</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=prisma" width="56" height="56" alt="Prisma" /><br /><sub>Prisma</sub></td></tr>
@@ -191,7 +193,7 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 <sub>Mongoose</sub>
 
-**AI / ML**
+### AI / ML
 
 <table>
   <tr><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white" height="34" alt="OpenAI" /><br /><sub>OpenAI</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=anthropic&logoColor=white&color=191919" height="34" alt="Anthropic" /><br /><sub>Anthropic</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=googlegemini&logoColor=white&color=886FBF" height="34" alt="Gemini" /><br /><sub>Gemini</sub></td><td align="center" width="120" height="66"><img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=langchain&logoColor=white&color=1C3C3C" height="34" alt="LangChain" /><br /><sub>LangChain</sub></td></tr>
@@ -199,7 +201,7 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 <sub>GPT &amp; LLMs · RAG · embeddings · vector databases · conversational AI · agents · prompt engineering · structured outputs</sub>
 
-**Cloud &amp; DevOps**
+### Cloud &amp; DevOps
 
 <table>
   <tr><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=aws" width="56" height="56" alt="AWS" /><br /><sub>AWS</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=gcp" width="56" height="56" alt="GCP" /><br /><sub>GCP</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=docker" width="56" height="56" alt="Docker" /><br /><sub>Docker</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=kubernetes" width="56" height="56" alt="Kubernetes" /><br /><sub>Kubernetes</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=terraform" width="56" height="56" alt="Terraform" /><br /><sub>Terraform</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=githubactions" width="56" height="56" alt="Actions" /><br /><sub>Actions</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=jenkins" width="56" height="56" alt="Jenkins" /><br /><sub>Jenkins</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=nginx" width="56" height="56" alt="NGINX" /><br /><sub>NGINX</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" alt="Vercel" /><br /><sub>Vercel</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=netlify" width="56" height="56" alt="Netlify" /><br /><sub>Netlify</sub></td></tr>
@@ -207,7 +209,7 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 <sub>GitOps</sub>
 
-**Testing &amp; Observability**
+### Testing &amp; Observability
 
 <table>
   <tr><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=jest" width="56" height="56" alt="Jest" /><br /><sub>Jest</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=cypress" width="56" height="56" alt="Cypress" /><br /><sub>Cypress</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=sentry" width="56" height="56" alt="Sentry" /><br /><sub>Sentry</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=grafana" width="56" height="56" alt="Grafana" /><br /><sub>Grafana</sub></td><td align="center" width="88" height="72"><img src="https://skillicons.dev/icons?i=git" width="56" height="56" alt="Git" /><br /><sub>Git</sub></td></tr>
@@ -215,10 +217,9 @@ Every engagement runs the same pipeline. No hand-offs, no waiting on another tea
 
 <sub>Playwright · ESLint · SonarQube · Datadog</sub>
 
-**Security**
+### Security
 
 <sub>JWT · OAuth2 · OIDC · RBAC · ABAC · Cedar policy authorization · OWASP · encryption · TLS</sub>
-
 
 ---
 
